@@ -6,7 +6,9 @@ variable "region" {
 	default = "us-ashburn-1"
 }
 
-variable "opc_user_name" {}
+variable "opc_user_name" {
+    default = "opc"
+}
 
 variable "InstanceImageOCID" {
     type = "map"

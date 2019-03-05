@@ -1,4 +1,4 @@
-# terraform_OCIRM_sample_RemoteExec_01-
+# terraform_OCIRM_sample_RemoteExec_01
 OCI Resource Managerを使用してComputeインスタンスを作成+Remote Exec
 
 OCI Resource ManagerでComputeインスタンスを作成し

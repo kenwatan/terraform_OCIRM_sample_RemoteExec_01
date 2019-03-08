@@ -6,6 +6,7 @@ variable "region" {
 	default = "us-ashburn-1"
 }
 
+
 # Specifies the Availability Domain
 variable "localAD" {
     default = "TGjA:US-ASHBURN-AD-3"
